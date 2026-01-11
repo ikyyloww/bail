@@ -107,8 +107,8 @@ await client.sendMessage(m.chat, {
       }
     ],
     newsletter: {
-      newsletterName: "Kayzennotdev",
-      newsletterJid: "1@newsletter"
+      newsletterName: "VANTASTIC || IKYY",
+      newsletterJid: "5@newsletter"
     }
   }
 })
@@ -129,7 +129,7 @@ await client.relayMessage(m.chat, {
     buttons: [
       {
         name: "cta_url",
-        buttonParamsJson: "{\"display_text\":\"kayzen\",\"url\":\"https://t.me/kayzennotdev\"}"
+        buttonParamsJson: "{\"display_text\":\"Ikyyloww\",\"url\":\"https://t.me/IkyyLoww\"}"
       }
     ],
     priceAmount1000: 72502,
@@ -141,7 +141,7 @@ await client.relayMessage(m.chat, {
 ```javascript
 const thanksFor = async () => {
   const credit = new Map([
-    ["kayzen", ""],
+    ["IkyyLoww", ""],
     ["Gupong", "source my fork"],
     ["yuukey", "main source baileys ( maybe )"]
   ]);
